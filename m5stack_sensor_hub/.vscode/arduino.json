@@ -1,0 +1,7 @@
+{
+    "configuration": "FlashMode=qio,FlashFreq=80,PartitionScheme=no_ota,UploadSpeed=921600,DebugLevel=none",
+    "board": "esp32:esp32:m5stack-core-esp32",
+    "port": "COM8",
+    "sketch": "m5stack_sensor_hub.ino",
+    "output": "./output"
+}
